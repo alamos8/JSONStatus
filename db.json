@@ -1,0 +1,13 @@
+{
+  "APs": [
+    { "name": "AP801", "x": 35, "y": 55, "visible": true },
+    { "name": "AP802", "x": 92, "y": 45, "visible": true },
+    { "name": "AP803", "x": 32, "y": 95, "visible": true }
+  ],
+  "TAGs": [
+    { "name": "AP801", "x": 35, "y": 55, "visible": true,
+      "uncert_r": 10, "status_string": "" },
+    { "name": "AP801", "x": 35, "y": 55, "visible": true,
+      "uncert_r": 10, "status_string": "" }
+  ]
+}
